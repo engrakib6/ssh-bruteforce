@@ -1,1 +1,3 @@
-Multithreaded Bruteforce ssh scanner written in C. Experimental and for Ethical testing purposes only!
+
+ssh-bruteforce
+Multi-threaded Bruteforce ssh scanner written in C
